@@ -18,5 +18,5 @@ https://github.com/Learning-Journey-Treasures/bs025
 https://github.com/Learning-Journey-Treasures/bs024
 #### 8.基于SSM的高校实验室管理系统+论文参考示例
 https://github.com/Learning-Journey-Treasures/bs023
-#### 更多请到小程序获取
-![gh_17810254f3db_258](https://github.com/user-attachments/assets/b63b5532-6049-4ebc-9acd-283ed419b075)
+
+**更多看公众号源码商城**
