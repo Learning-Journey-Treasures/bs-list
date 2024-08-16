@@ -1,5 +1,6 @@
 # bs-list
-Java毕业设计代码+论文合集，持续更新>>> 扫码获取
+Java毕业设计代码+论文合集，持续更新
+>>> **扫码 → 源码商城 获取**
 ![qrcode_for_gh_1266b4b5294a_258 (1)](https://github.com/user-attachments/assets/00a396c0-817c-4913-83da-dfc2c8e29cce)
 #### 1.基于云函数的自习室预约微信小程序+论文示例参考 
 https://github.com/Learning-Journey-Treasures/bs027
